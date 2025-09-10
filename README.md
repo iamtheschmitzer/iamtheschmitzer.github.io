@@ -1,6 +1,4 @@
-# iamtheschmitzer.github.io
-
-Engineering Highlights
+# Jeff Schmitz Engineering Highlights
 
 ## Parametric Composite Knowledge System
 **Problem**: Expense and time of engineering buildable composite airplane parts given a finite element model.
@@ -23,11 +21,20 @@ Engineering Highlights
 
 **Result**: Used in company terminals for interactive analytic screens, charts, index calculation, database and web access.
 
-
 ## OpenDDS
-## Liquibook
-## Scholaric
+**Problem**: Dynamic Allocations at runtime deemed unsafe for DoD use cases.
 
+**Solution**: Wrote memory manager for OpenDDS making all allocations at startup as part of [OpenDDS Safety Profile](https://opendds.readthedocs.io/en/master/devguide/safety_profile.html).
+
+**Result**: Approved for use in DoD applications.
+
+## Liquibook
+**Problem**: 
+
+
+**Solution**: 
+
+**Result**: 
 
 An Interactive Financial Analytics system
 A Batch Healthcare Analytics system - from startup to successful exit
