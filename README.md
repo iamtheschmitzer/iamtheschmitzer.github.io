@@ -50,7 +50,7 @@ Ultra fast order-matching system, popular with Crypto exchanges
 
 **Problem**: Financial clients need a simulated market to test trading algorithms
 
-**Solution**: Built open-source order-matching system.
+**Solution**: Built open-source order-matching system - currently found on [GitHub](https://github.com/enewhuis/liquibook)
 
 **Result**: Clients able to quickly test trading algorithms.  Used in production by Crypto exchanges due to its speed.
 
